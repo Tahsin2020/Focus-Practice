@@ -3,3 +3,5 @@ A simple JS, HTML, and CSS app that shows a basic stopwatch on screen. However, 
 
 
 All one has to do is download the repository, and open the Index.html file online in any browser
+
+![image](https://github.com/Tahsin2020/Focus-Practice/assets/62449141/e9004d07-6aa0-4b37-ab95-13491805e490)
