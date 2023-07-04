@@ -22,11 +22,11 @@ stopBtn.addEventListener("click", function () {
 });
 
 foundBtn.addEventListener("click", function () {
-  // console.log(`time taken: ${time * 10}`);
+  console.log(`time taken: ${time * 10}`);
   times.innerHTML += " " + time * 10 + ",";
   found = false;
-  // time = 0;
-  count = 1;
+  time = 0;
+  // count = 1;
 });
 
 resetBtn.addEventListener("click", function () {
